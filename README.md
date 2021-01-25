@@ -3,10 +3,9 @@
 
 ## _Let_ _me_ _introduce_ _myself_
 
-```
+
 I am Antje, a Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. Currently diving into the magical world of Vue.js and Typescript!
 
-```
 
 ---
 
