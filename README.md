@@ -48,6 +48,12 @@ Currently diving into the magical world of Vue.js and Typescript!
 
 ---
 
+
+## _Projects_
+
+- &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt and vue.js on the basis of an open source blog template ... _coming soon_
+
+---
 ## _Get in touch_ &#127919;
 
 
