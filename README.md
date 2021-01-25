@@ -19,8 +19,8 @@ Currently diving into the magical world of Vue.js and Typescript!
 ## _My tech stack and skills_
 
 
-| Tools & Technologies        | Experience & Skills           | Languages  |
-| ------------- |:-------------:| -----:|
+| Tools & Technologies        | Experience & Skills           | Languages      |
+| ------------- |:-------------:| :---------:|
 | Vue.js     | SoftwareDvelopment  | Html5 |
 | Tailwind CSS      | Scrum / Kanban      |   JavaScript |
 | Vuetify / Bootstrap | UI/UX Design      |    CSS / LESS / SASS |
@@ -37,8 +37,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 
 ## _Interests_
 
-- &#128187; I’m currently developing my own tech-blog with nuxt and vue.js _coming soon_
--  &#128025; I’m currently learning how to write proper unit tests with [vue-testing-library][4] 
+- &#128025; I’m currently learning how to write proper unit tests with [vue-testing-library][4] 
 
 - &#127928; besides of that I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch (_on going_)
 
