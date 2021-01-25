@@ -23,10 +23,11 @@ Currently diving into the magical world of Vue.js and Typescript!
 | Rest API / GraphQL | Pair Programming      |    Typescript |
 | jQuery | CI/CD      |   |
 | Docker | Unit Testing      |   |
+| npm / yarn |    |   |
 | Gitlab | eCommerce      |   |
 |VS Code / IntelliJ / Eclipse |    |   |
-| npm / yarn |    |   |
-| |    | english / dutch / german   |
+| Atlassian Jira / Confluence / Sourcetree |    |   |
+| |    | English / Dutch / German(_native_)   |
 
 
 ---
