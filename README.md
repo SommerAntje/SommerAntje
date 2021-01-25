@@ -1,7 +1,7 @@
 ![Header](readme_header_hafen.jpg "Header")
-###  _Hi, welcome to my profile_  &#9996; 
+##  _Hi, welcome to my profile_  &#9996; 
 
-## _May I introduce myself_
+### _May I introduce myself_
 
 
 I am Antje, a passionate self-taught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
@@ -11,7 +11,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 ---
 
 
-## _Tech Stack and Skills_
+### _Tech Stack and Skills_
 
 
 | Tools & Technologies        | Experience & Skills           | Languages      |
@@ -33,7 +33,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 ---
 
 
-## _Interests_
+### _Interests_
 
 - &#128025; I’m currently learning to write proper unit tests with [vue-testing-library][4] 
 
@@ -46,14 +46,14 @@ Currently diving into the magical world of Vue.js and Typescript!
 ---
 
 
-## _Projects_
+### _Projects_
 
 - &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt.js and vue.js on the basis of an open source blog template ... _coming soon_
 
 ---
 
 
-## _Get in touch_ &#127919;
+### _Get in touch_ &#127919;
 
 - [Twitter][1]
 - [LinkedIn][2] 
