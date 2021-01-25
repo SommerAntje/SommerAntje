@@ -1,24 +1,70 @@
 ![Header](readme_header_hafen.jpg "Header")
-#  &#10024; _Hi_, _welcome_ _to_ _my_ _profile_  &#9996; &#10024;
+#  &#10024; _Hi, welcome to my profile_  &#9996; &#10024;
 
-## _Let_ _me_ _introduce_ _myself_
+## _Let me introduce myself_
 
 
-I am Antje, a Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. Currently diving into the magical world of Vue.js and Typescript!
+I am Antje, a passionate selftaught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
+
+Currently diving into the magical world of Vue.js and Typescript!
+
+
+---
+
+<!--
+## _Working experience_
+
+---
+-->
+## _My tech stack and skills_
+
+
+| Tools & Technologies        | Experience & Skills           | Languages  |
+| ------------- |:-------------:| -----:|
+| Vue.js     | SoftwareDvelopment  | Html5 |
+| Tailwind CSS      | Scrum / Kanban      |   JavaScript |
+| Vuetify / Bootstrap | UI/UX Design      |    CSS / LESS / SASS |
+| Rest API / GraphQL | Pair Programming      |    Typescript |
+| jQuery | CI/CD      |   |
+| Docker | Unit Testing      |   |
+| Gitlab | eCommerce      |   |
+|VS Code / IntelliJ / Eclipse |    |   |
+|Atlassian Jira / Confluence / SourceTree |    |   |
+
 
 
 ---
 
+## _Interests_
 
-## _Skills_
+- &#128187; I’m currently developing my own tech-blog with nuxt and vue.js _coming soon_
+-  &#128025; I’m currently learning how to write proper unit tests with [vue-testing-library][4] 
+
+- &#127928; besides of that I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch (_on going_)
+
+ 
+
+... _actually I am always up to something_
 
 ---
 
-## _Tools_ & _Technologie_
+## _Get in touch_ &#127919;
 
----
 
-## _Get_ _in_ _touch_
+
+- [Twitter][1]
+- [LinkedIn][2] 
+- [Xing][3] 
+
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/antje-sommer
+[3]: https://www.xing.com/profile/Antje_Sommer9/cv
+[4]: https://testing-library.com/docs/vue-testing-library/intro/
+ 
  
 <!--
 **SommerAntje/SommerAntje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
