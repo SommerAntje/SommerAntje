@@ -66,7 +66,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/AntjeSommer3
 [2]: https://www.linkedin.com/in/antje-sommer
 [3]: https://www.xing.com/profile/Antje_Sommer9/cv
 [4]: https://testing-library.com/docs/vue-testing-library/intro/
