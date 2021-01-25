@@ -17,12 +17,12 @@ Currently diving into the magical world of Vue.js and Typescript!
 | Tools & Technologies        | Experience & Skills           | Languages      |
 | :-------------: |:-------------:| :---------:|
 | Vue.js  | SoftwareDvelopment  | Html5 |
-| Tailwind CSS      | Scrum / Kanban      |   JavaScript |
-| Vuetify / Bootstrap | UI/UX Design      |    CSS / LESS / SASS |
+| Tailwind CSS      | Scrum / Kanban      |   CSS / LESS / SASS |
+| Vuetify / Bootstrap | UI/UX Design      |    JavaScript |
 | Rest API / GraphQL | Pair Programming      |    Typescript |
 | jQuery | CI/CD      |   |
 | Docker | Unit Testing      |   |
-| npm / yarn | eCommerce Software  (_ Demandware / Salesforce eCommerce Cloud_)  |   |
+| npm / yarn | eCommerce Software  (_Demandware / Salesforce eCommerce Cloud_)  |   |
 | Gitlab |   |   |
 | nuxt.js |    |   |
 |VS Code / IntelliJ / Eclipse |    |   |
