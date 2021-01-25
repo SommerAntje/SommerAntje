@@ -1,5 +1,5 @@
 ![Header](readme_header_hafen.jpg "Header")
-#  &#10024; _Hi, welcome to my profile_  &#9996; &#10024;
+##  _Hi, welcome to my profile_  &#9996; 
 
 ## _May I introduce myself_
 
