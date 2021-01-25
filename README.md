@@ -20,7 +20,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 
 
 | Tools & Technologies        | Experience & Skills           | Languages      |
-| :------------- |:-------------:| :---------:|
+| :-------------: |:-------------:| :---------:|
 | Vue.js     | SoftwareDvelopment  | Html5 |
 | Tailwind CSS      | Scrum / Kanban      |   JavaScript |
 | Vuetify / Bootstrap | UI/UX Design      |    CSS / LESS / SASS |
