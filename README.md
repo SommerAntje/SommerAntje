@@ -4,7 +4,7 @@
 ## _Let me introduce myself_
 
 
-I am Antje, a passionate selftaught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
+I am Antje, a passionate self-taught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
 
 Currently diving into the magical world of Vue.js and Typescript!
 
