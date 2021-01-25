@@ -22,12 +22,12 @@ Currently diving into the magical world of Vue.js and Typescript!
 | Rest API / GraphQL | Pair Programming      |    Typescript |
 | jQuery | CI/CD      |   |
 | Docker | Unit Testing      |   |
-| npm / yarn | eCommerce Software   |   |
+| npm / yarn | eCommerce Software  (_ Demandware / Salesforce eCommerce Cloud_)  |   |
 | Gitlab |   |   |
 | nuxt.js |    |   |
 |VS Code / IntelliJ / Eclipse |    |   |
 | Atlassian Jira / Confluence / Sourcetree |    |   |
-| |    | English / Dutch / German(_native_)   |
+| |    | English / Dutch / German (_native_)   |
 
 
 ---
