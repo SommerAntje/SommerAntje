@@ -1,27 +1,23 @@
 ![Header](readme_header_hafen.jpg "Header")
 #  &#10024; _Hi, welcome to my profile_  &#9996; &#10024;
 
-## _Let me introduce myself_
+## _May I introduce myself_
 
 
 I am Antje, a passionate self-taught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
 
 Currently diving into the magical world of Vue.js and Typescript!
 
-
 ---
 
-<!--
-## _Working experience_
 
----
--->
 ## _My tech stack and skills_
 
 
 | Tools & Technologies        | Experience & Skills           | Languages      |
 | :-------------: |:-------------:| :---------:|
 | Vue.js     | SoftwareDvelopment  | Html5 |
+| nuxt.js |    |   |
 | Tailwind CSS      | Scrum / Kanban      |   JavaScript |
 | Vuetify / Bootstrap | UI/UX Design      |    CSS / LESS / SASS |
 | Rest API / GraphQL | Pair Programming      |    Typescript |
@@ -29,11 +25,12 @@ Currently diving into the magical world of Vue.js and Typescript!
 | Docker | Unit Testing      |   |
 | Gitlab | eCommerce      |   |
 |VS Code / IntelliJ / Eclipse |    |   |
-|Atlassian Jira / Confluence / SourceTree |    |   |
-
+| npm / yarn |    |   |
+| |    | english / dutch / german   |
 
 
 ---
+
 
 ## _Interests_
 
@@ -50,39 +47,21 @@ Currently diving into the magical world of Vue.js and Typescript!
 
 ## _Projects_
 
-- &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt and vue.js on the basis of an open source blog template ... _coming soon_
+- &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt.js and vue.js on the basis of an open source blog template ... _coming soon_
 
 ---
+
+
 ## _Get in touch_ &#127919;
-
-
 
 - [Twitter][1]
 - [LinkedIn][2] 
 - [Xing][3] 
 
 
-
-<!-- Links to your social media accounts -->
+<!-- Links to social media accounts -->
 
 [1]: https://twitter.com/AntjeSommer3
 [2]: https://www.linkedin.com/in/antje-sommer
 [3]: https://www.xing.com/profile/Antje_Sommer9/cv
-[4]: https://testing-library.com/docs/vue-testing-library/intro/
- 
- 
-<!--
-**SommerAntje/SommerAntje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--img src="readme_header_hafen.jpg " height="350px"-->
+[4]: https://testing-library.com/docs/vue-testing-library/intro
