@@ -1,7 +1,6 @@
 ![Header](readme_header_hafen.jpg "Header")
 ##  _Hi, welcome to my profile_  &#9996; 
 
-### _May I introduce myself_
 
 
 I am Antje, a passionate self-taught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
