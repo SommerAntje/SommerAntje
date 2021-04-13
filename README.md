@@ -36,7 +36,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 
 - &#128025; I’m currently learning to write proper unit tests with [vue-testing-library][4] 
 
-- &#127928; besides of that I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch (_on going_)
+- &#127928; apart from that I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch (_on going_)
 
  
 
