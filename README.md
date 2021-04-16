@@ -3,9 +3,7 @@
 
 
 
-I am Antje, a passionate Front-End Developer with longtime experience in UI/UX Design and E-commerce, based in Hamburg. 
-
-Currently diving into the magical world of Vue.js and Typescript!
+I am Antje, a former graphic designer by profession and self-taught front-end developer based in Hamburg. With a focus on online shop software development, I have worked as UI/UX designer and front-end developer in e-commerce for many years. As an autodidact I want to focus in one area and be good at it - therefore I decided to follow my passion for consistent learning and to micro-specialize focusing on vue.js. Apart from being a nerd, I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch.
 
 ---
 
