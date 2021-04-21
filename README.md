@@ -3,7 +3,7 @@
 
 
 
-I am Antje, a former graphic designer by profession and self-taught front-end developer based in Hamburg. With a focus on online shop software development, I have worked as UI/UX designer and front-end developer in e-commerce for many years. As an autodidact I decided to follow my passion for consistent learning and to specialize focusing on vue.js. Apart from being a nerd, I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch.
+I am Antje, a former graphic designer by profession and self-taught front-end developer based in Hamburg. With a focus on online shop software development, I have worked as UI/UX designer and front-end developer in e-commerce for many years. As an autodidact I decided to follow my passion for consistent learning and to specialize focusing on vue.js and Jamstack architecture. Apart from being a nerd, I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch.
 
 ---
 
@@ -45,7 +45,7 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 
 ### _Projects_
 
-- &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt.js and vue.js on the basis of an open source blog template ... _coming soon_
+- &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt.js, vue.js and markdown including open source blog template &#128073; [Tech blog][5]
 
 ---
 
@@ -55,7 +55,7 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 - [Twitter][1]
 - [LinkedIn][2] 
 - [Xing][3] 
-
+- [Tech blog][5] 
 
 <!-- Links to social media accounts -->
 
@@ -63,3 +63,4 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 [2]: https://www.linkedin.com/in/antje-sommer
 [3]: https://www.xing.com/profile/Antje_Sommer9/cv
 [4]: https://testing-library.com/docs/vue-testing-library/intro
+[5]: https://antje-sommer.de
