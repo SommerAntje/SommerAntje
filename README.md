@@ -3,7 +3,7 @@
 
 
 
-I am Antje, a former graphic designer by profession and self-taught front-end developer based in Hamburg. With a focus on online shop software development, I have worked as UI/UX designer and front-end developer in e-commerce for many years. As an autodidact I decided to follow my passion for consistent learning and to specialize focusing on vue.js and Jamstack architecture. Apart from being a nerd, I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch.
+I am Antje, a former graphic designer by profession and self-taught front-end developer based in Hamburg. With a focus on online shop software development, I have worked as UI/UX designer and front-end developer in e-commerce for many years. As an autodidact I decided to follow my passion for consistent learning and to specialize focusing on vue.js, Jamstack architecture and MVP development concept. Apart from being a nerd, I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch.
 
 ---
 
@@ -17,6 +17,8 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 | Tailwind CSS      | Scrum / Kanban      |   CSS / LESS / SASS |
 | Vuetify / Bootstrap | UI/UX Design      |    JavaScript |
 | Rest API / GraphQL | Pair Programming      |    Typescript |
+| wordpress / CMS | minimum viable product (MVP) | 
+|  | microservice architecture / microfrontend Development | 
 | jQuery | CI/CD      |   |
 | Docker | Unit Testing      |   |
 | npm / yarn | eCommerce Software  (_Demandware / Salesforce eCommerce Cloud_)  |   |
@@ -45,7 +47,7 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 
 ### _Projects_
 
-- &#128187; at the moment I’m developing my own tech-blog incl. website with nuxt.js, vue.js and markdown including open source blog template &#128073; [Tech blog][5]
+- &#128187; at the moment I’m developing my own website with nuxt.js, vue.js and markdown including open source blog template &#128073; [Tech blog][5]
 
 ---
 
