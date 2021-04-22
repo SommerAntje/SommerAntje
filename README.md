@@ -17,8 +17,9 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 | Tailwind CSS      | Scrum / Kanban      |   CSS / LESS / SASS |
 | Vuetify / Bootstrap | UI/UX Design      |    JavaScript |
 | Rest API / GraphQL | Pair Programming      |    Typescript |
-| wordpress / CMS | minimum viable product (MVP) | 
-|  | microservice architecture / microfrontend Development | 
+| Wordpress / CMS |  | 
+|  | Microservice architecture / Microfrontend Development | 
+|  | Minimum Viable Product (MVP) Development | 
 | jQuery | CI/CD      |   |
 | Docker | Unit Testing      |   |
 | npm / yarn | eCommerce Software  (_Demandware / Salesforce eCommerce Cloud_)  |   |
