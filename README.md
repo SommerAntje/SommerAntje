@@ -18,7 +18,7 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 | Vuetify / Bootstrap | UI/UX Design      |    JavaScript |
 | Rest API / GraphQL | Pair Programming      |    Typescript |
 | Wordpress / CMS |  | 
-|  | Microservice architecture / Microfrontend Development | 
+| Storybook (vue) | Microservice architecture / Microfrontend Development | 
 |  | Minimum Viable Product (MVP) Development | 
 | jQuery | CI/CD      |   |
 | Docker | Unit Testing      |   |
