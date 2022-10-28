@@ -55,7 +55,6 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 
 ### _Get in touch_ &#127919;
 
-- [Twitter][1]
 - [LinkedIn][2] 
 - [Xing][3] 
 - [Tech blog][5] 
@@ -63,7 +62,6 @@ I am Antje, a former graphic designer by profession and self-taught front-end de
 
 <!-- Links to social media accounts -->
 
-[1]: https://twitter.com/AntjeSommer3
 [2]: https://www.linkedin.com/in/antje-sommer
 [3]: https://www.xing.com/profile/Antje_Sommer9/cv
 [4]: https://testing-library.com/docs/vue-testing-library/intro
